@@ -5,3 +5,8 @@
 
 SSH and HTTPS
 One is public/ other is private
+
+generate SSH keys on your local system 
+copy the ley from local system to the specific repo on github
+.ssh folder where ssh keys are available
+name the new key as your name 
